@@ -1,18 +1,7 @@
 ---
-title: "Introduzione"
-# author: "Mattia Doro"
-# date: "3/10/2022"
-output: 
-  html_document:
-    self_contained: true
+course_title: EEGLAB
+author_name: Mattia Doro
 ---
-
-```{r setup, include=FALSE}
-setwd("C:/Users/admin/Dropbox/Courses/ARCA/2022/")
-knitr::opts_chunk$set(echo = TRUE)
-
-
-```
 
 Le toolbox **EEGLAB** e **ERPLAB**, utilizzabili in ambiente **MATLAB**, permettono di analizzare dati elettroencefalografici (EEG). Il corso si propone di fornire le competenze necessarie per l’analisi dati di base, offrendo inoltre la possibilità di comprendere aspetti teorici attraverso esempi pratici. I contenuti trattati saranno principalmente il pre-processamento dei dati (filtri del segnale, ri-referenziamento, rimozione/interpolazione di segnale rumoroso, segmentazione, rimozione artefatti, correzione artefatti con analisi delle componenti indipendenti) e al computo di potenziali evento-relati (ERPs). 
 
