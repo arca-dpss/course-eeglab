@@ -6,14 +6,20 @@ author_name: Mattia Doro
 # Introduzione 
 Le toolbox **EEGLAB** e **ERPLAB**, utilizzabili in ambiente **MATLAB**, permettono di analizzare dati elettroencefalografici (EEG). Il corso si propone di fornire le competenze necessarie per l’analisi dati di base, offrendo inoltre la possibilità di comprendere aspetti teorici attraverso esempi pratici. I contenuti trattati saranno principalmente il pre-processamento dei dati (filtri del segnale, ri-referenziamento, rimozione/interpolazione di segnale rumoroso, segmentazione, rimozione artefatti, correzione artefatti con analisi delle componenti indipendenti) e al computo di potenziali evento-relati (ERPs).
 
+# Orari2
+| Giorno | Orario | Aula (CLA)|
+|-------|------|-----|
+| Giovedì 30 giugno | 9:00 - 13:00 e 14:00 - 18:00 | LAB 3D  |
+| Venerdì 1 luglio  | 9:00 - 13:00 e 14:00 - 18:00 | LAB 3D  |
+
 # Orari
-| **Giorno** | **Orario** | **Aula** |
-|--------|--------|--------|
-| Lunedì 21/11 | 13:00 - 17:00 | Lab 2A (CLA)|
-| Martedì 22/11 | 13:00 - 17:00 | Lab 2A (CLA)|
-| Mercoledì 23/11 | 13:00 - 17:00 | Lab 2A (CLA)|
-| Giovedì 24/11 | 13:00 - 17:00 | Lab 2A (CLA)|
-| Venerdì 25/11 | 13:00 - 17:00 | Lab 2A (CLA)|
+|    **Giorno**   | **Orario**    | **Aula (CLA)** |
+|-----------------|---------------|----------------|
+| Lunedì 21/11    | 13:00 - 17:00 |     LAB 2A     |
+| Martedì 22/11   | 13:00 - 17:00 |     LAB 2A     |
+| Mercoledì 23/11 | 13:00 - 17:00 |     LAB 2A     |
+| Giovedì 24/11   | 13:00 - 17:00 |     LAB 2A     |
+| Venerdì 25/11   | 13:00 - 17:00 |     LAB 2A     |
 
 # Programma
 
