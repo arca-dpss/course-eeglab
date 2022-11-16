@@ -40,12 +40,12 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 ## Lezione 2
 - Filtraggio del segnale
 - Re-reference offline
-- Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi;
+- Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
 
 ## Lezione 3
-- Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB;
+- Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
 - Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
-ERPLAB.
+ERPLAB
 
 ## Lezione 4
 - Tecniche avanzate di correzione artefatti
