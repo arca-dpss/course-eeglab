@@ -15,15 +15,22 @@ Le toolbox **EEGLAB** e **ERPLAB**, utilizzabili in ambiente **MATLAB**, permett
 - Caricare i dati in EEGLAB/ERPLAB
 
 *Martedì 22/11*
-
+- Filtraggio del segnale
+- Re-reference offline
+- Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi;
 
 *Mercoledì 23/11*
-
+- Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB;
+- Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
+ERPLAB.
 
 *Giovedì 24/11*
-
+- Tecniche avanzate di correzione artefatti
+- Prove pratiche
 
 *Venerdì 25/11*
+- Prove pratiche
+
 
 # Requisiti
 Si raccomanda di installare nel proprio computer il software MATLAB prima dell’inizio del corso (nel caso l’abbiate fatto in precedenza, consiglio di disinstallarlo e reinstallare l’ultima versione -2022b-, così da non rischiare alcuna incompatibilità). C’è la possibilità di scaricarlo gratuitamente con l’account istituzionale (@studenti.unipd.it). A [questo link](https://asit.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-licenze/matlab) sono presenti tutte le istruzioni (sezione "Download del software").
@@ -42,7 +49,7 @@ Per un utilizzo corretto delle toolbox EEGLAB e ERPLAB, in fase di installazione
 EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1_N4_UB2yvqnrQwvGe-9KiUPbGu6UdLAr?usp=sharing) come un unico pacchetto compresso (da decomprimere). Le toolbox non necessitano di alcuna installazione, vedremo in aula come spiegare a MATLAB che vogliamo usarle.
 
 # Materiali
-
+Ccoming soon...
 
 
 
