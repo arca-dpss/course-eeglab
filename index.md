@@ -49,7 +49,7 @@ Per un utilizzo corretto delle toolbox EEGLAB e ERPLAB, in fase di installazione
 EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1_N4_UB2yvqnrQwvGe-9KiUPbGu6UdLAr?usp=sharing) come un unico pacchetto compresso (da decomprimere). Le toolbox non necessitano di alcuna installazione, vedremo in aula come spiegare a MATLAB che vogliamo usarle.
 
 # Materiali
-Ccoming soon...
+Coming soon...
 
 
 
