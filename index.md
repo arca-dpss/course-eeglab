@@ -3,34 +3,41 @@ course_title: EEGLAB
 author_name: Mattia Doro
 ---
 
+# Introduzione 
 Le toolbox **EEGLAB** e **ERPLAB**, utilizzabili in ambiente **MATLAB**, permettono di analizzare dati elettroencefalografici (EEG). Il corso si propone di fornire le competenze necessarie per l’analisi dati di base, offrendo inoltre la possibilità di comprendere aspetti teorici attraverso esempi pratici. I contenuti trattati saranno principalmente il pre-processamento dei dati (filtri del segnale, ri-referenziamento, rimozione/interpolazione di segnale rumoroso, segmentazione, rimozione artefatti, correzione artefatti con analisi delle componenti indipendenti) e al computo di potenziali evento-relati (ERPs). 
 
 
-### Programma
+# Programma
 
-*Lunedì 21/11*
-
+## Lezione 1
 - L'ambiente MATLAB
 - Le toolbox EEGLAB/ERPLAB
 - Caricare i dati in EEGLAB/ERPLAB
 
-*Martedì 22/11*
+## Lezione 2
 - Filtraggio del segnale
 - Re-reference offline
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi;
 
-*Mercoledì 23/11*
+## Lezione 3
 - Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB;
 - Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
 ERPLAB.
 
-*Giovedì 24/11*
+## Lezione 4
 - Tecniche avanzate di correzione artefatti
 - Prove pratiche
 
-*Venerdì 25/11*
+## Lezione 5
 - Prove pratiche
 
+# Orari
+| **Giorno** | **Orario** | **Aula** |
+| Lunedì 21/11 | 13:00 - 17:00 | Lab 2A (CLA)|
+| Martedì 22/11 | 13:00 - 17:00 | Lab 2A (CLA)|
+| Mercoledì 23/11 | 13:00 - 17:00 | Lab 2A (CLA)|
+| Giovedì 24/11 | 13:00 - 17:00 | Lab 2A (CLA)|
+| Venerdì 25/11 | 13:00 - 17:00 | Lab 2A (CLA)|
 
 # Requisiti
 Si raccomanda di installare nel proprio computer il software MATLAB prima dell’inizio del corso (nel caso l’abbiate fatto in precedenza, consiglio di disinstallarlo e reinstallare l’ultima versione -2022b-, così da non rischiare alcuna incompatibilità). C’è la possibilità di scaricarlo gratuitamente con l’account istituzionale (@studenti.unipd.it). A [questo link](https://asit.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-licenze/matlab) sono presenti tutte le istruzioni (sezione "Download del software").
