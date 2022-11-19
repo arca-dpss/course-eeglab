@@ -4,40 +4,17 @@ author_name: Mattia Doro
 ---
 
 # Introduzione 
-Le toolbox **EEGLAB** e **ERPLAB**, utilizzabili in ambiente **MATLAB**, permettono di analizzare dati elettroencefalografici (EEG). Il corso si propone di fornire le competenze necessarie per l’analisi dati di base, offrendo inoltre la possibilità di comprendere aspetti teorici attraverso esempi pratici. I contenuti trattati saranno principalmente il pre-processamento dei dati (filtri del segnale, ri-referenziamento, rimozione/interpolazione di segnale rumoroso, segmentazione, rimozione artefatti, correzione artefatti con analisi delle componenti indipendenti) e al computo di potenziali evento-relati (ERPs). 
-
-
-# Programma
-
-## Lezione 1
-- L'ambiente MATLAB
-- Le toolbox EEGLAB/ERPLAB
-- Caricare i dati in EEGLAB/ERPLAB
-
-## Lezione 2
-- Filtraggio del segnale
-- Re-reference offline
-- Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi;
-
-## Lezione 3
-- Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB;
-- Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
-ERPLAB.
-
-## Lezione 4
-- Tecniche avanzate di correzione artefatti
-- Prove pratiche
-
-## Lezione 5
-- Prove pratiche
+Le toolbox **EEGLAB** e **ERPLAB**, utilizzabili in ambiente **MATLAB**, permettono di analizzare dati elettroencefalografici (EEG). Il corso si propone di fornire le competenze necessarie per l’analisi dati di base, offrendo inoltre la possibilità di comprendere aspetti teorici attraverso esempi pratici. I contenuti trattati saranno principalmente il pre-processamento dei dati (filtri del segnale, ri-referenziamento, rimozione/interpolazione di segnale rumoroso, segmentazione, rimozione artefatti, correzione artefatti con analisi delle componenti indipendenti) e al computo di potenziali evento-relati (ERPs).
 
 # Orari
-| **Giorno** | **Orario** | **Aula** |
-| Lunedì 21/11 | 13:00 - 17:00 | Lab 2A (CLA)|
-| Martedì 22/11 | 13:00 - 17:00 | Lab 2A (CLA)|
-| Mercoledì 23/11 | 13:00 - 17:00 | Lab 2A (CLA)|
-| Giovedì 24/11 | 13:00 - 17:00 | Lab 2A (CLA)|
-| Venerdì 25/11 | 13:00 - 17:00 | Lab 2A (CLA)|
+
+|    **Giorno**   | **Orario**    | **Aula (CLA)** |
+|-----------------|---------------|----------------|
+| Lunedì 21/11    | 13:00 - 17:00 |     LAB 2A     |
+| Martedì 22/11   | 13:00 - 17:00 |     LAB 2A     |
+| Mercoledì 23/11 | 13:00 - 17:00 |     LAB 2A     |
+| Giovedì 24/11   | 13:00 - 17:00 |     LAB 2A     |
+| Venerdì 25/11   | 13:00 - 17:00 |     LAB 2A     |
 
 # Requisiti
 Si raccomanda di installare nel proprio computer il software MATLAB prima dell’inizio del corso (nel caso l’abbiate fatto in precedenza, consiglio di disinstallarlo e reinstallare l’ultima versione -2022b-, così da non rischiare alcuna incompatibilità). C’è la possibilità di scaricarlo gratuitamente con l’account istituzionale (@studenti.unipd.it). A [questo link](https://asit.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-licenze/matlab) sono presenti tutte le istruzioni (sezione "Download del software").
@@ -51,9 +28,31 @@ Per un utilizzo corretto delle toolbox EEGLAB e ERPLAB, in fase di installazione
 - Signal Processing Toolbox
 - Statistics and Machine Learning Toolbox
 
-
-
 EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1_N4_UB2yvqnrQwvGe-9KiUPbGu6UdLAr?usp=sharing) come un unico pacchetto compresso (da decomprimere). Le toolbox non necessitano di alcuna installazione, vedremo in aula come spiegare a MATLAB che vogliamo usarle.
+
+# Programma
+
+## Lezione 1
+- L'ambiente MATLAB
+- Le toolbox EEGLAB/ERPLAB
+- Caricare i dati in EEGLAB/ERPLAB
+
+## Lezione 2
+- Filtraggio del segnale
+- Re-reference offline
+- Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
+
+## Lezione 3
+- Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
+- Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
+ERPLAB
+
+## Lezione 4
+- Tecniche avanzate di correzione artefatti
+- Prove pratiche
+
+## Lezione 5
+- Prove pratiche
 
 # Materiali
 Coming soon...
