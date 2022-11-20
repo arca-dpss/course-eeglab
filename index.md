@@ -32,6 +32,8 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 
 # Programma
 
+## [Contenuti condivisi](https://drive.matlab.com/sharing/5d74cf4b-1d20-414e-9e07-055db7896c60)
+
 ## Lezione 1
 - [L'ambiente MATLAB](MatlabBase1_1.html)
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html)
