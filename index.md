@@ -38,6 +38,7 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 - [L'ambiente MATLAB](MatlabBase1_1.html)
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html)
 - Caricare i dati in EEGLAB/ERPLAB
+-- [Materiale Lezione 1](https://drive.google.com/open?id=1EE42XpruJH8BrDDmANa-eUQS5Cv9CiR6&authuser=mattia.doro%40unipd.it&usp=drive_fs)
 
 ## Lezione 2
 - Re-reference offline
