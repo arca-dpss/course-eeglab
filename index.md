@@ -38,8 +38,8 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 - Caricare i dati in EEGLAB/ERPLAB
 
 ## Lezione 2
-- Filtraggio del segnale
 - Re-reference offline
+- Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
 
 ## Lezione 3
