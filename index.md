@@ -35,8 +35,8 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 [A questo link](https://docs.google.com/document/d/1iOaL1AJrOK88tCRe_IELKhjotdkGQkTnvljWzQgRIsc/edit?usp=sharing) potete trovare l'aggiornamento passo per passo di quanto stiamo facendo in aula.
 
 ## Lezione 1 -- [Materiale](https://drive.google.com/open?id=1EE42XpruJH8BrDDmANa-eUQS5Cv9CiR6&authuser=mattia.doro%40unipd.it&usp=drive_fs)
-- [L'ambiente MATLAB](MatlabBase1_1.html)
-- [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html)
+- [L'ambiente MATLAB](MatlabBase1_1.html) -- [Versione PDF](pdf_eeglab_course/L'ambiente MATLAB.pdf)
+- [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html)[Versione PDF](Le toolbox EEGLAB_ERPLAB.pdf)
 - Caricare i dati in EEGLAB/ERPLAB
 
 ## Lezione 2 
