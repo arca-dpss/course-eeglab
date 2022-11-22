@@ -39,7 +39,7 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html) -- [Versione PDF](pdf_eeglab_course/Le toolbox EEGLAB_ERPLAB.pdf)
 - Caricare i dati in EEGLAB/ERPLAB
 
-## Lezione 2 
+## Lezione 2 -- [Materiale](https://drive.google.com/open?id=17Jx6XQ3zUQF6wNpKoDlvc7mcL-y_2_vh&authuser=mattia.doro%40unipd.it&usp=drive_fs)
 - Re-reference offline
 - Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
