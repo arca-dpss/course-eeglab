@@ -44,7 +44,7 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 - Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
 
-## Lezione 3
+## Lezione 3 -- [Materiale](https://drive.google.com/drive/folders/1RfzOjKwqCWIMrPhJ3rnnU7BrjQVEeqoY?usp=share_link)
 - Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
 - Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
 ERPLAB
