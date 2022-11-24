@@ -49,7 +49,7 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 - Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
 ERPLAB
 
-## Lezione 4
+## Lezione 4 -- [Materiale](https://drive.google.com/drive/folders/1makHCFjtndNCXo7GiIJJ8q7daLLoir82?usp=sharing)
 - Tecniche avanzate di correzione artefatti
 - Prove pratiche
 
