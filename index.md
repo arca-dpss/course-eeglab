@@ -55,7 +55,7 @@ ERPLAB
 - Tecniche avanzate di correzione artefatti
 - Prove pratiche
 
-## Lezione 5
+## Lezione 5 -- [Materiale](https://drive.google.com/drive/folders/1lHyumu9Ujmf4oaR00VWP8YGcEqP17411?usp=sharing)
 - Prove pratiche
 
 # Link utili
