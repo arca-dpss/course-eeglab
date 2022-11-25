@@ -61,6 +61,8 @@ ERPLAB
 # Link utili
 - [EEGLAB webpage](https://sccn.ucsd.edu/eeglab/index.php)
 - [ERPLAB webpage](https://erpinfo.org/erplab)
+<<<<<<< HEAD
 - [ERPcore](https://erpinfo.org/erp-core)
-
+=======
+- [ERPCORE](https://erpinfo.org/erp-core)
 
