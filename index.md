@@ -39,10 +39,12 @@ EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può esser
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html) -- [Versione PDF](pdf_eeglab_course/Le toolbox EEGLAB_ERPLAB.pdf)
 - Caricare i dati in EEGLAB/ERPLAB
 - [Script della prima lezione](script/analisi.m)
+
 ## Lezione 2 -- [Materiale](https://drive.google.com/drive/folders/17Jx6XQ3zUQF6wNpKoDlvc7mcL-y_2_vh?usp=share_link)
 - Re-reference offline
 - Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
+- [Script della seconda lezione](script/Analisi2.m)
 
 ## Lezione 3 -- [Materiale](https://drive.google.com/drive/folders/1RfzOjKwqCWIMrPhJ3rnnU7BrjQVEeqoY?usp=share_link)
 - Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
