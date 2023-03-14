@@ -8,27 +8,23 @@ Le toolbox **EEGLAB** e **ERPLAB**, utilizzabili in ambiente **MATLAB**, permett
 
 # Orari
 
-|    **Giorno**   | **Orario**    | **Aula (CLA)** |
+|    **Giorno**   | **Orario**    |    **Aula**    |
 |-----------------|---------------|----------------|
-| Lunedì 21/11    | 13:00 - 17:00 |     LAB 2A     |
-| Martedì 22/11   | 13:00 - 17:00 |     LAB 2A     |
-| Mercoledì 23/11 | 13:00 - 17:00 |     LAB 2A     |
-| Giovedì 24/11   | 13:00 - 17:00 |     LAB 2A     |
-| Venerdì 25/11   | 13:00 - 17:00 |     LAB 2A     |
+| Lunedì 20/03    | 13:00 - 17:00 |  LAB 2A (CLA)  |
+| Martedì 21/03   | 13:00 - 17:00 |  LAB 2A (CLA)  |
+| Mercoledì 22/03 | 13:00 - 17:00 |   4M (Psico2)  |
+| Giovedì 23/03   | 13:00 - 17:00 |  LAB 2A (CLA)  |
+| Venerdì 24/03   | 13:00 - 17:00 |  LAB 2A (CLA)  |
 
 # Requisiti
-Si raccomanda di installare nel proprio computer il software MATLAB prima dell’inizio del corso (nel caso l’abbiate fatto in precedenza, consiglio di disinstallarlo e reinstallare l’ultima versione -2022b-, così da non rischiare alcuna incompatibilità). C’è la possibilità di scaricarlo gratuitamente con l’account istituzionale (@studenti.unipd.it). A [questo link](https://asit.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-licenze/matlab) sono presenti tutte le istruzioni (sezione "Download del software").
-
-Le toolbox EEGLAB e ERPLAB sono scaricabili gratuitamente, così come il software MATLAB (quest’ultimo utilizzando l’indirizzo e-mail dell’Università di Padova).
-Per ottimizzare le tempistiche del corso, invito ad installare il software MATLAB prima dell'inizio del corso (eventualmente con un po' di anticipo, così da potermi contattare se si riscontrassero difficoltà).
-Per un utilizzo corretto delle toolbox EEGLAB e ERPLAB, in fase di installazione di MATLAB, è necessario installare anche i seguenti pacchetti aggiuntivi (sarà sufficiente selezionarli da una lista):
-
+Si raccomanda di installare nel proprio computer il software MATLAB prima dell’inizio del corso (nel caso l’abbiate fatto in precedenza, consiglio di assicurarsi di avere una versione non troppo datata (indicativamente dalla 2019 in poi è ok), così da non rischiare alcuna incompatibilità). C’è la possibilità di scaricarlo gratuitamente con l’account istituzionale (@studenti.unipd.it). A [questo link](https://asit.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-licenze/matlab) sono presenti tutte le istruzioni (sezione "Download del software"). In fase di installazione di MATLAB vi verrà chiesto se desiderate installare qualche pacchetto aggiuntivo; per un utilizzo corretto delle toolbox EEGLAB e ERPLAB sono necessari i seguenti pacchetti aggiuntivi di MATLAB:
 - Image Processing Toolbox
 - Optimization Toolbox
 - Signal Processing Toolbox
 - Statistics and Machine Learning Toolbox
+Se riscontrate qualche difficoltà con l'installazione contattatemi. 
 
-EEGLAB (e ERPLAB in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1_N4_UB2yvqnrQwvGe-9KiUPbGu6UdLAr?usp=sharing) come un unico pacchetto compresso (da decomprimere). Le toolbox non necessitano di alcuna installazione, vedremo in aula come spiegare a MATLAB che vogliamo usarle.
+Le toolbox EEGLAB e ERPLAB sono scaricabili gratuitamente. EEGLAB (e ERPLAB, in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1_N4_UB2yvqnrQwvGe-9KiUPbGu6UdLAr?usp=sharing) come un unico pacchetto compresso (da decomprimere). Le toolbox non necessitano di alcuna installazione, vedremo in aula come "spiegare" a MATLAB che vogliamo usarle.
 
 # Programma
 
