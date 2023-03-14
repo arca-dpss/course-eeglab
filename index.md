@@ -22,6 +22,7 @@ Si raccomanda di installare nel proprio computer il software MATLAB prima dell�
 - Optimization Toolbox
 - Signal Processing Toolbox
 - Statistics and Machine Learning Toolbox
+
 Se riscontrate qualche difficoltà con l'installazione contattatemi. 
 
 Le toolbox EEGLAB e ERPLAB sono scaricabili gratuitamente. EEGLAB (e ERPLAB, in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1_N4_UB2yvqnrQwvGe-9KiUPbGu6UdLAr?usp=sharing) come un unico pacchetto compresso (da decomprimere). Le toolbox non necessitano di alcuna installazione, vedremo in aula come "spiegare" a MATLAB che vogliamo usarle.
