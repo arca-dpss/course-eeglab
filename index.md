@@ -37,7 +37,7 @@ Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo
 - [L'ambiente MATLAB](MatlabBase1_1.html) -- [Versione PDF](pdf_eeglab_course/L'ambiente MATLAB.pdf)
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html) -- [Versione PDF](pdf_eeglab_course/Le toolbox EEGLAB_ERPLAB.pdf)
 - Caricare i dati in EEGLAB/ERPLAB
-- [Script della prima lezione](script/analisi.m)
+<! --- - [Script della prima lezione](script/analisi.m)
 
 ## Lezione 2 -- 
 - Re-reference offline
