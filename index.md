@@ -25,41 +25,40 @@ Si raccomanda di installare nel proprio computer il software MATLAB prima dell�
 
 Se riscontrate qualche difficoltà con l'installazione contattatemi. 
 
-Le toolbox EEGLAB e ERPLAB sono scaricabili gratuitamente. EEGLAB (e ERPLAB, in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1_N4_UB2yvqnrQwvGe-9KiUPbGu6UdLAr?usp=sharing) come un unico pacchetto compresso (da decomprimere). Le toolbox non necessitano di alcuna installazione, vedremo in aula come "spiegare" a MATLAB che vogliamo usarle.
+Le toolbox EEGLAB e ERPLAB sono scaricabili gratuitamente. EEGLAB (e ERPLAB, in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1o2kcVl-NmQc3n9vBYLFsQkwxiCFHIIXM?usp=share_link) come un unico pacchetto compresso (è sufficiente fare click su "Scarica tutto" in alto a destra della pagina) che poi decomprimerete. Le toolbox non necessitano di alcuna installazione, vedremo in aula come "spiegare" a MATLAB che vogliamo usarle.
+
+Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo durante il corso [a questo link]()
 
 # Programma
 
 [A questo link](https://docs.google.com/document/d/155pbHJi7dJGHlmlPRQF6ykLUjVZBJHu7QyGmnvybjMs/edit?usp=sharing) potete trovare l'aggiornamento passo per passo di quanto stiamo facendo in aula.
 
-## Lezione 1 -- [Materiale](https://drive.google.com/open?id=1EE42XpruJH8BrDDmANa-eUQS5Cv9CiR6&authuser=mattia.doro%40unipd.it&usp=drive_fs)
+## Lezione 1 -- 
 - [L'ambiente MATLAB](MatlabBase1_1.html) -- [Versione PDF](pdf_eeglab_course/L'ambiente MATLAB.pdf)
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html) -- [Versione PDF](pdf_eeglab_course/Le toolbox EEGLAB_ERPLAB.pdf)
 - Caricare i dati in EEGLAB/ERPLAB
 - [Script della prima lezione](script/analisi.m)
 
-## Lezione 2 -- [Materiale](https://drive.google.com/drive/folders/17Jx6XQ3zUQF6wNpKoDlvc7mcL-y_2_vh?usp=share_link)
+## Lezione 2 -- 
 - Re-reference offline
 - Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
 - [Script della seconda lezione](script/Analisi2.m)
 
-## Lezione 3 -- [Materiale](https://drive.google.com/drive/folders/1RfzOjKwqCWIMrPhJ3rnnU7BrjQVEeqoY?usp=share_link)
+## Lezione 3 -- 
 - Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
 - Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
 ERPLAB
 
-## Lezione 4 -- [Materiale](https://drive.google.com/drive/folders/1makHCFjtndNCXo7GiIJJ8q7daLLoir82?usp=sharing)
+## Lezione 4 -- 
 - Tecniche avanzate di correzione artefatti
 - Prove pratiche
 
-## Lezione 5 -- [Materiale](https://drive.google.com/drive/folders/1lHyumu9Ujmf4oaR00VWP8YGcEqP17411?usp=sharing)
+## Lezione 5 -- 
 - Prove pratiche
 
 # Link utili
 - [EEGLAB webpage](https://sccn.ucsd.edu/eeglab/index.php)
 - [ERPLAB webpage](https://erpinfo.org/erplab)
-<<<<<<< HEAD
 - [ERPcore](https://erpinfo.org/erp-core)
-=======
-- [ERPCORE](https://erpinfo.org/erp-core)
 
