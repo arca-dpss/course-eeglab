@@ -47,8 +47,7 @@ Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo
 
 ## Lezione 3 -- 
 - Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
-- Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e
-ERPLAB
+- Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e ERPLAB
 
 ## Lezione 4 -- 
 - Tecniche avanzate di correzione artefatti
