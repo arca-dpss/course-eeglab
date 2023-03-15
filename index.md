@@ -33,25 +33,25 @@ Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo
 
 [A questo link](https://docs.google.com/document/d/155pbHJi7dJGHlmlPRQF6ykLUjVZBJHu7QyGmnvybjMs/edit?usp=sharing) potete trovare l'aggiornamento passo per passo di quanto stiamo facendo in aula.
 
-## Lezione 1 -- 
+## Lezione 1
 - [L'ambiente MATLAB](MatlabBase1_1.html) -- [Versione PDF](pdf_eeglab_course/L'ambiente MATLAB.pdf)
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html) -- [Versione PDF](pdf_eeglab_course/Le toolbox EEGLAB_ERPLAB.pdf)
 - Caricare i dati in EEGLAB/ERPLAB
 
-## Lezione 2 -- 
+## Lezione 2
 - Re-reference offline
 - Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
 
-## Lezione 3 -- 
+## Lezione 3
 - Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
 - Automizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e ERPLAB
 
-## Lezione 4 -- 
+## Lezione 4
 - Tecniche avanzate di correzione artefatti
 - Prove pratiche
 
-## Lezione 5 -- 
+## Lezione 5
 - Prove pratiche
 
 # Link utili
