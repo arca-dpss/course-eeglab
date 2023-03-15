@@ -27,7 +27,7 @@ Se riscontrate qualche difficoltà con l'installazione contattatemi.
 
 Le toolbox EEGLAB e ERPLAB sono scaricabili gratuitamente. EEGLAB (e ERPLAB, in questo caso già contenuto all'interno del primo) può essere scaricato [qui](https://drive.google.com/drive/folders/1o2kcVl-NmQc3n9vBYLFsQkwxiCFHIIXM?usp=share_link) come un unico pacchetto compresso (è sufficiente fare click su "Scarica tutto" in alto a destra della pagina) che poi decomprimerete. Le toolbox non necessitano di alcuna installazione, vedremo in aula come "spiegare" a MATLAB che vogliamo usarle.
 
-Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo durante il corso [a questo link]()
+Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo durante il corso [a questo link](https://drive.google.com/drive/folders/1C3tem_pOKvj4g6C3WSo1KfQNdevROnhQ?usp=sharing)
 
 # Programma
 
@@ -37,13 +37,11 @@ Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo
 - [L'ambiente MATLAB](MatlabBase1_1.html) -- [Versione PDF](pdf_eeglab_course/L'ambiente MATLAB.pdf)
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html) -- [Versione PDF](pdf_eeglab_course/Le toolbox EEGLAB_ERPLAB.pdf)
 - Caricare i dati in EEGLAB/ERPLAB
-- [Script della prima lezione](script/analisi.m)
 
 ## Lezione 2 -- 
 - Re-reference offline
 - Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
-- [Script della seconda lezione](script/Analisi2.m)
 
 ## Lezione 3 -- 
 - Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
