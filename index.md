@@ -7,6 +7,7 @@ author_name: Mattia Doro
 Le toolbox **EEGLAB** e **ERPLAB**, utilizzabili in ambiente **MATLAB**, permettono di analizzare dati elettroencefalografici (EEG). Il corso si propone di fornire le competenze necessarie per l’analisi dati di base, offrendo inoltre la possibilità di comprendere aspetti teorici attraverso esempi pratici. I contenuti trattati saranno principalmente il pre-processamento dei dati (filtri del segnale, ri-referenziamento, rimozione/interpolazione di segnale rumoroso, segmentazione, rimozione artefatti, correzione artefatti con analisi delle componenti indipendenti) e al computo di potenziali evento-relati (ERPs).
 
 # Orari
+
 Nell'ultimo giorno di lezione riceverete un certificato di frequenza al corso, ma ricordate che è necessario frequentare almeno l'80% delle ore.
 
 |    **Giorno**   | **Orario**    |    **Aula**    |
