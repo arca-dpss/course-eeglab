@@ -33,7 +33,7 @@ Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo
 
 # Programma
 
-[A questo link](https://docs.google.com/document/d/155pbHJi7dJGHlmlPRQF6ykLUjVZBJHu7QyGmnvybjMs/edit?usp=sharing) potete trovare l'aggiornamento passo per passo di quanto stiamo facendo in aula.
+[A questo link](https://docs.google.com/document/d/1iOaL1AJrOK88tCRe_IELKhjotdkGQkTnvljWzQgRIsc/edit?usp=sharing) potete trovare l'aggiornamento passo per passo di quanto stiamo facendo in aula.
 
 ## Lezione 1
 - [L'ambiente MATLAB](MatlabBase1_1.html) -- [Versione PDF](pdf_eeglab_course/L'ambiente MATLAB.pdf)
