@@ -54,7 +54,7 @@ Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo
 - Prove pratiche
 
 ## Lezione 5
-- Prove pratiche
+- Prove pratiche - [dati](https://drive.google.com/drive/folders/1hnn52WSLn3vBpZRTwhkndC0hTkPTx4aP?usp=sharing)
 
 # Link utili
 - [EEGLAB webpage](https://sccn.ucsd.edu/eeglab/index.php)
