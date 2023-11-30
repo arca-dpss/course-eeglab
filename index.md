@@ -45,7 +45,7 @@ Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo
 - Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
 
-## Lezione 3
+## Lezione 3 - [Script](https://drive.google.com/file/d/1BrMtjL1QyibqbH4fiQytGKbe7nfwq9pZ/view?usp=sharing)
 - Detezione di artefatti oculari e soluzioni per la loro correzione in EEGLAB e ERPLAB
 - Automatizzazione delle routine di analisi e grand average di potenziali evento-relati in EEGLAB e ERPLAB
 
