@@ -40,7 +40,7 @@ Per essere pronti a partire, potete già scaricare tutti i dati che analizzeremo
 - [Le toolbox EEGLAB/ERPLAB](ToolboxEEGLABERPLAB_1_2.html) -- [Versione PDF](pdf_eeglab_course/Le toolbox EEGLAB_ERPLAB.pdf)
 - Caricare i dati in EEGLAB/ERPLAB
 
-## Lezione 2 
+## Lezione 2 - [Script](https://drive.google.com/file/d/1AXLSyjifLXWfrNOomfUK0wgSNeSxxLo-/view?usp=sharing)
 - Re-reference offline
 - Filtraggio del segnale
 - Segmentazione e creazione epoche con EEGLAB e ERPLAB, interpolazione elettrodi
